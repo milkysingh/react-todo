@@ -1,0 +1,10 @@
+.App{
+    max-width: 35%;
+}
+#jumbo {
+    padding: 5px;
+    padding: 40px;
+  }
+#todoDisplay{
+    margin-bottom: 7px;
+}
